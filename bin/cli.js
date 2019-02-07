@@ -113,7 +113,7 @@ const convert = async (opts) => {
     fs.mkdirSync(opts.outDir)
   }
   components.forEach(({ name, content }) => {
-    const filename = path.join(opts.outDir, name + '.js')
+    const filename = path.join(opts.outDir, name + '.tsx')
     fs.writeFileSync(filename, content)
   })
 }
