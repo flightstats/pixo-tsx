@@ -1,7 +1,7 @@
 {
-  "name": "pixo",
-  "version": "1.2",
-  "description": "Convert SVG icons into React components",
+  "name": "pixo-tsx",
+  "version": "1.0.0",
+  "description": "Convert SVG icons into React components with .tsx file extensions",
   "main": "index.js",
   "bin": {
     "pixo": "./bin/cli.js"
