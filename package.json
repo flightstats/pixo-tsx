@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pmark/pixo.git"
+    "url": "https://github.com/flightstats/pixo-tsx.git"
   },
   "bugs": {
-    "url": "https://github.com/pmark/pixo/issues"
+    "url": "https://github.com/flightstats/pixo/issues"
   },
-  "homepage": "https://github.com/pmark/pixo#readme"
+  "homepage": "https://github.com/flightstats/pixo#readme"
 }
