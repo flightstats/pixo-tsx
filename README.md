@@ -1,5 +1,5 @@
 
-# pixo
+# pixo-tsx
 
 Convert SVG icons into React components
 
